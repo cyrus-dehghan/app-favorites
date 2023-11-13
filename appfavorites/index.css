@@ -1,0 +1,48 @@
+.accueil{font-family:Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    background-color: rgb(181, 181, 181);}
+
+#af {color: rgb(112, 99, 255);
+    text-decoration: none;}
+
+nav .onglets{
+        display:contents;
+    }
+.title{
+    color: rgb(112, 99, 255);
+}
+h3{
+    color: rgb(112, 99, 255);
+}
+.resume{
+    color: rgb(255, 255, 255);
+}
+.footera{
+    background-color:rgb(112, 99, 255);
+    background-size: cover;
+    padding: 30px 100px;
+    color: gray;
+}
+
+.bereal{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    background-color: black;
+}
+.titlee{
+    color: aliceblue;
+}
+.footerb{
+    background-color:rgb(63, 63, 63);
+    background-size: cover;
+    padding: 10px 100px;
+    color: gray;
+}
+.vinted{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    background-color: rgb(30, 76, 61);
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;}
